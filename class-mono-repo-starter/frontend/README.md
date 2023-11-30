@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-# React Router Boilerplate 
+# React Router Boilerplate .
 
 ### React + Vite + React Router Library + Minimal CSS
 
